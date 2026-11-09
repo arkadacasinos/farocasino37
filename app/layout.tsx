@@ -9,6 +9,7 @@ export default function RootLayout({
   return (
     <html lang="ru" className="dark bg-[#0f0f11]">
       <head>
+        <meta name="yandex-verification" content="8e5a43e189a256b3" />
         <title>Faro Casino Официальный Сайт | Фаро Казино Зеркало Рабочее</title>
         <meta
           name="description"
